@@ -1,0 +1,41 @@
+.overlay{
+    position: absolute;
+    top: 2%;
+    left: 0;
+    right: 0;
+}
+
+.btn{
+    border: 1px solid transparent;
+    padding: 6px 12px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin: 0 6px;
+}
+
+.overlay > .btn{
+    padding: 16px 10px;
+}
+
+.inputDiv{
+    margin-bottom: 10px;
+}
+
+.inputDiv input{
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 6px 12px;
+    width: 200px;
+}
+
+.textWhite{
+    color: #ffffff;
+}
+
+@media screen and (max-width: 800px) {
+    .overlay > .btn{
+        width: 80px;
+        padding: 5px;
+        font-size: 10px;
+    }
+  }
