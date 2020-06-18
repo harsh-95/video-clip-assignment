@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/video-clip-assignment/static/css/main.ba9cfb0f.chunk.css",
+    "main.js": "/video-clip-assignment/static/js/main.895076ff.chunk.js",
+    "main.js.map": "/video-clip-assignment/static/js/main.895076ff.chunk.js.map",
+    "runtime-main.js": "/video-clip-assignment/static/js/runtime-main.536575ed.js",
+    "runtime-main.js.map": "/video-clip-assignment/static/js/runtime-main.536575ed.js.map",
+    "static/js/2.68899435.chunk.js": "/video-clip-assignment/static/js/2.68899435.chunk.js",
+    "static/js/2.68899435.chunk.js.map": "/video-clip-assignment/static/js/2.68899435.chunk.js.map",
+    "index.html": "/video-clip-assignment/index.html",
+    "precache-manifest.61100fb5964d73347f81b3050e329344.js": "/video-clip-assignment/precache-manifest.61100fb5964d73347f81b3050e329344.js",
+    "service-worker.js": "/video-clip-assignment/service-worker.js",
+    "static/css/main.ba9cfb0f.chunk.css.map": "/video-clip-assignment/static/css/main.ba9cfb0f.chunk.css.map",
+    "static/js/2.68899435.chunk.js.LICENSE.txt": "/video-clip-assignment/static/js/2.68899435.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/video-clip-assignment/static/media/logo.5d5d9eef.svg",
+    "static/media/samplevideo.mp4": "/video-clip-assignment/static/media/samplevideo.d422bedd.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.536575ed.js",
+    "static/js/2.68899435.chunk.js",
+    "static/css/main.ba9cfb0f.chunk.css",
+    "static/js/main.895076ff.chunk.js"
+  ]
+}
